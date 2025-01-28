@@ -1,6 +1,6 @@
 ## Skills & Technologies
 
-c,cs,dotnet,py
+![c,cs,dotnet,py](https://skillicons.dev/icons?i=c,cs,dotnet,py&perline=8)
 
 ## GitHub Stats
 
